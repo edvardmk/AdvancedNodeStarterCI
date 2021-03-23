@@ -5,8 +5,7 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "node": "^12.7.0",
-    "yarn": "^1.17.0"
+    "node": "^12.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
